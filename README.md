@@ -8,7 +8,7 @@ Unsupervised Feature Learning / Deep Learning Tutorial
 - Three debug levels are worth to notice:
 	0: no information is given out
 	1: warnings and messages are printed
-	>1: in addition to 1, figures are displayed
+	above 1: in addition to 1, figures are displayed
 
 Modules and directories
 - data					: data used to test modules
